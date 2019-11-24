@@ -1,0 +1,46 @@
+/*p , ul{
+    color: steelblue;
+}*/
+
+html{
+    font-size: 20px; 
+    font-family: 'Dosis', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+li, p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    padding: 0px 30px 0px 30px;
+}
+
+html {
+    background-color: #00539F;
+  }
+
+h1{
+    margin: 0;
+    padding: 40px 0px;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black; /*đặt một bóng đổ trên văn bản bên trong một phần tử*/
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+  body{
+      width: 600px;
+      margin: 0 auto; 
+      background-color: #FF9500;
+      padding: 0px 0px 20px 0px;
+      border: 2px solid black;
+  }
+  
+  
